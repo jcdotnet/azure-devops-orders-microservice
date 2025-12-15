@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="../OrdersService.Test/OrdersService.Test.csproj" Id="0b8d4a0a-00e7-43a4-b563-943e8bbc8d66" />
   <Project Path="docker-compose.dcproj">
     <Build />
   </Project>
