@@ -1,5 +1,4 @@
 <Solution>
-  <Project Path="../OrdersService.Test/OrdersService.Test.csproj" Id="0b8d4a0a-00e7-43a4-b563-943e8bbc8d66" />
   <Project Path="docker-compose.dcproj">
     <Build />
   </Project>
@@ -7,4 +6,5 @@
   <Project Path="OrdersService.ApiGateway/OrdersService.ApiGateway.csproj" Id="5e8e2299-a135-4e8a-aeb5-be7206666fda" />
   <Project Path="OrdersService.BusinessLogicLayer/OrdersService.BusinessLogicLayer.csproj" />
   <Project Path="OrdersService.DataAccessLayer/OrdersService.DataAccessLayer.csproj" />
+  <Project Path="OrdersServiceTest/OrdersServiceTest.csproj" Id="4cd06e70-963d-4099-a5f6-4e61b7f19b4b" />
 </Solution>
